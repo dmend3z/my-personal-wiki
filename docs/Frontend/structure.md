@@ -35,8 +35,10 @@ Contains all the business logic and data models for the application. This includ
 /domain
   /user
   /product
+     /hooks
     product.model.ts
     product.api.ts
+   
 ```
 
 ### `/modules` - Domain-Specific Functionalities
